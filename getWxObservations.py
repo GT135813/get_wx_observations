@@ -15,7 +15,7 @@ We know what we are.
 But know not what we may be. 
 Thy sweet self dost deceive.
 '''
-    
+
 if __name__ == "__main__":
     print(getObs("KOSH"))
 
